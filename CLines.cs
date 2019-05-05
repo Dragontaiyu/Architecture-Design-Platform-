@@ -12,7 +12,8 @@ using System.Diagnostics;
 using System.Drawing.Drawing2D;
 
 
-//starting 
+//starting
+//testing
 namespace DGI01
 {
     public class CLines
